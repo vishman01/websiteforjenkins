@@ -1,2 +1,2 @@
-FROM bitnami/apache:latest
+FROM hshar/webapp
 ADD . /var/www/html
